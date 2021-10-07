@@ -1,4 +1,6 @@
 # List of Chinese-Chinese texts (= texts written originally in Buddhist Chinese) created 500-800CE
+Sources for dates: 
+
 dateRange,id,textName
 - 765-,T0974C,加句靈驗佛頂尊勝陀羅尼記
 - 727,T1309,七曜星辰別行法
