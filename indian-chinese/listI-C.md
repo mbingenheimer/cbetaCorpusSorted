@@ -1,4 +1,6 @@
 # List of Indian-Chinese texts (= indian texts translated into Buddhist Chinese) created 500-800CE
+Sources for dates: 
+
 dateRange,id,textName
 - 585-600,T0024,起世經
 - 605-616,T0025,起世因本經
