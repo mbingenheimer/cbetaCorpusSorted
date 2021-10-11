@@ -1,5 +1,10 @@
 # List of Indian-Chinese texts (= indian texts translated into Buddhist Chinese) created 500-800CE
 Sources for dates: 
+日期部分：
+大正藏用昭和法寶目錄。
+卍續藏用: http://www.sutrapearls.org/ 。先刪除大正藏已收的，再看朝代。
+有序的話會參考，如：《新刪定四分僧戒本》：「余以貞觀二十一有年仲冬。於終南山豐德寺刪定戒本。」(CBETA 2021.Q4, X39, no. 707, p. 262b9-10)
+沒有序就參考Authority author's death date. 沒有生卒年就不收。
 
 dateRange,id,textName
 - 585-600,T0024,起世經
