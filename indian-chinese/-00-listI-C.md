@@ -5,6 +5,7 @@ Sources for dates:
 卍續藏用: http://www.sutrapearls.org/ 。先刪除大正藏已收的，再看朝代。
 有序的話會參考，如：《新刪定四分僧戒本》：「余以貞觀二十一有年仲冬。於終南山豐德寺刪定戒本。」(CBETA 2021.Q4, X39, no. 707, p. 262b9-10)
 沒有序就參考[Authority](https://authority.dila.edu.tw/person/) 作者卒年. 沒有生卒年就不收。
+Total: 661 texts
 
 dateRange,id,textName
 - 585-600,T0024,起世經
