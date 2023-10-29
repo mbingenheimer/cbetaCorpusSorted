@@ -4,7 +4,7 @@ This are files from the CBETA Corpus v. 2021, made available here: https://githu
 
 2021-07: Sorted c.660 Indian-Chinese and c.290 Chinese-Chinese texts translated or written between 500 and 800 CE. The Indian-Chinese collection contains more files but less text. The files in the Chinese-Chinese collection are longer on average.
 
-2022-05: Trasformed the xml files from the CBETA github repository to clean text files for training and analysis (see the two tar.bz2 archives).
+2022-05: Transformed the xml files from the CBETA github repository to clean text files for training and analysis (see the two tar.bz2 archives).
 
 
 
